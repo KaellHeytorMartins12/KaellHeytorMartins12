@@ -17,6 +17,9 @@ Eu sou o kaell heytor martins, sou u programador front end, atualmente estou apr
 [![kaell heutor martins status](https://github-readme-stats.vercel.app/api?username=kaell heytor martins)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![kaell heytor martins top](https://github-readme-stats.vercel.app/api/top-langs/?username=kaell heytor martins)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
